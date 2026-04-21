@@ -68,7 +68,7 @@ README.md
 * Dataset preview option
 
 
-![Dashboard1](dashboard1.png)
+![Dashboard1](dashboaed1.png)
 
 ![Dashboard2](dashboard2.png)
 
@@ -86,7 +86,7 @@ Users can input patient details such as age, cholesterol, blood pressure, etc.
 
 Displays whether the patient is at **high risk** or **low risk**.
 
-![Predictionbutton](prediction.png)
+![Predictionbutton](prediction button.png)
 
 ---
 
