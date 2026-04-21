@@ -4,7 +4,9 @@
 
 This project is an end-to-end **Machine Learning application** that predicts the likelihood of heart disease using patient medical data.
 It includes data preprocessing, model training, evaluation, and an interactive **Streamlit dashboard**.
-
+---
+By
+Aswath Shri Ram S.B
 ---
 
 ## 🚀 Features
@@ -49,7 +51,7 @@ README.md
 * Task: Heart Disease Prediction
 
   Data set (sample) :
-  ![Dataset](images/dataset.png)
+  ![Dataset](dataset.png)
 
 ---
 
@@ -66,9 +68,9 @@ README.md
 * Dataset preview option
 
 
-![Dashboard1](images/dashboard1.png)
+![Dashboard1](dashboard1.png)
 
-![Dashboard2](images/dashboard2.png)
+![Dashboard2](dashboard2.png)
 
 ---
 
@@ -76,7 +78,7 @@ README.md
 
 Users can input patient details such as age, cholesterol, blood pressure, etc.
 
-![Sidebar](images/sidebar.png)
+![Sidebar](sidebar.png)
 
 ---
 
@@ -84,7 +86,7 @@ Users can input patient details such as age, cholesterol, blood pressure, etc.
 
 Displays whether the patient is at **high risk** or **low risk**.
 
-![Predictionbutton](images/prediction.png)
+![Predictionbutton](prediction.png)
 
 ---
 
@@ -92,19 +94,19 @@ Displays whether the patient is at **high risk** or **low risk**.
 
 ## 📊 Target Distribution
 
-![Target Distribution](images/target_distribution.png)
+![Target Distribution(target_distribution.png)
 
 ---
 
 ## 🔥 Correlation Heatmap
 
-![Correlation](images/correlation.png)
+![Correlation](correlation.png)
 
 ---
 
 ## 📉 Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
@@ -113,7 +115,7 @@ Displays whether the patient is at **high risk** or **low risk**.
 ## 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/aswathshriramsb-eternal/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
@@ -142,11 +144,11 @@ streamlit run app.py
 
 Sample Input : 
 
-![Sample Input](images/sampleinput.png)
+![Sample Input](sampleinput.png)
 
 Sample Output  : 
 
-![Sample Output](images/sampleoutput.png)
+![Sample Output](sampleoutput.png)
 
 ---
 
