@@ -49,7 +49,7 @@ README.md
 * Task: Heart Disease Prediction
 
   Data set (sample) :
-  ![dataset](images/dataset.png)
+  ![Dataset](images/dataset.png)
 
 ---
 
@@ -66,9 +66,9 @@ README.md
 * Dataset preview option
 
 
-![dashboard1](images/dashboard.png)
+![Dashboard1](images/dashboard1.png)
 
-![dashboard2](images/dashboard.png)
+![Dashboard2](images/dashboard2.png)
 
 ---
 
@@ -76,15 +76,15 @@ README.md
 
 Users can input patient details such as age, cholesterol, blood pressure, etc.
 
-![sidebar](images/sidebar.png)
+![Sidebar](images/sidebar.png)
 
 ---
 
-## 🔍 Prediction Output
+## 🔍 Prediction button :
 
 Displays whether the patient is at **high risk** or **low risk**.
 
-![predictionbutton](images/prediction.png)
+![Predictionbutton](images/prediction.png)
 
 ---
 
@@ -138,15 +138,15 @@ python heart_project.py
 ```
 streamlit run app.py
 ```
+ 
+
+Sample Input : 
+
+![Sample Input](images/sampleinput.png)
+
 Sample Output  : 
 
-Input : 
-
-![sampleinput](images/sampleinput.png)
-
-Output : 
-
-![sampleoutput](images/sampleoutput.png)
+![Sample Output](images/sampleoutput.png)
 
 ---
 
