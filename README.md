@@ -48,6 +48,9 @@ README.md
 * Domain: Healthcare
 * Task: Heart Disease Prediction
 
+  Data set (sample) :
+  ![dataset](images/dataset.png)
+
 ---
 
 # 📸 APPLICATION PREVIEW
